@@ -1,7 +1,10 @@
 {
 	"image": "images/photo.jpg",
 	"name": "blog teste",
-	"description": "aqui e um portal com admin&nbsp;",
+	"description": [
+		"aqui e um portal com admin&nbsp;",
+		"blog"
+	],
 	"twitter": "https://twitter.com/RealGrumpyCat",
 	"facebook": "https://www.facebook.com/TheOfficialGrumpyCat",
 	"wikipedia": "https://en.wikipedia.org/wiki/Grumpy_Cat"
